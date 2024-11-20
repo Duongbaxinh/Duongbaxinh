@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duong Ba Xinh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="left" src="https://top10tphcm.com/wp-content/uploads/2023/06/anh-dong-one-piece.gif" />
+<img align="right" width="400px" src="https://top10tphcm.com/wp-content/uploads/2023/06/anh-dong-one-piece.gif" />
 - 🌱 I’m currently learning **Java, Springboot**
 
 - 👯 I’m looking to collaborate on **Dong A University**
