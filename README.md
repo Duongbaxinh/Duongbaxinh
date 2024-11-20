@@ -5,13 +5,9 @@
 
 - 👯 I’m looking to collaborate on **Dong A University**
 
-- 👨‍💻 All of my projects are available at [https://movie-web-1hqh22zqg-duongbaxinhs-projects.vercel.app/?vercelToolbarCode=cROTog94fR7R0VK](https://movie-web-1hqh22zqg-duongbaxinhs-projects.vercel.app/?vercelToolbarCode=cROTog94fR7R0VK)
-
 - 💬 Ask me about **react, nodejs**
 
 - 📫 How to reach me **duongbaxinh2021@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAF3_C6TDsA/BARKVXzH7HQWIIufzopmZQ/edit](https://www.canva.com/design/DAF3_C6TDsA/BARKVXzH7HQWIIufzopmZQ/edit)
 
 - ⚡ Fun fact **I think I am funny**
 
