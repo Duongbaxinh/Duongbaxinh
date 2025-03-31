@@ -1,24 +1,133 @@
-<h1 align="center">Hi 👋, I'm Duong Ba Xinh</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" width="300px" src="https://top10tphcm.com/wp-content/uploads/2023/06/anh-dong-one-piece.gif" />
-- 🌱 I’m currently learning **Java, Springboot**
+<div align="center">
+  <img src="./bg.jpg"  />
+</div>
 
-- 👯 I’m looking to collaborate on **Dong A University**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&width=435&lines=Duong+Ba+Xinh+dev](https://www.google.com/imgres?q=background%20coder&imgurl=https%3A%2F%2Fimage.slidesdocs.com%2Fresponsive-images%2Fbackground%2Fan-illustration-depicting-the-world-of-coding-and-programming-in-3d-powerpoint-background_8cd0b4017f__960_540.jpg&imgrefurl=https%3A%2F%2Fslidesdocs.com%2Fbackground%2Fan-illustration-depicting-the-world-of-coding-and-programming-in-3d-powerpoint-background_8cd0b4017f&docid=rESmPOIpe1KSAM&tbnid=Gw5RICnpuXzbuM&vet=12ahUKEwj7orqkieqHAxUnTmwGHTpzEkk4ChAzegQIChAA..i&w=960&h=540&hcb=2&ved=2ahUKEwj7orqkieqHAxUnTmwGHTpzEkk4ChAzegQIChAA)"/>
+  </a>
+</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=1000&color=5170FF&width=435&lines=Hey%F0%9F%91%8Beveryone!;I'm+Duong+Ba+Xinh" alt="Typing SVG" /></a>
+</div>
 
-- 💬 Ask me about **react, nodejs**
+<h2  align="left">[About Me]</h2>
 
-- 📫 How to reach me **duongbaxinh2021@gmail.com**
+###
 
-- ⚡ Fun fact **I think I am funny**
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/xinh-d%c6%b0%c6%a1ng-b%c3%a1-5b4812334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xinh-d%c6%b0%c6%a1ng-b%c3%a1-5b4812334/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h2 align="left">[I Code With]</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duongbaxinh&show_icons=true&locale=en&layout=compact" alt="duongbaxinh" /></p>
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img
+    src="https://techstack-generator.vercel.app/js-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/ts-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/react-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/redux-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/sass-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/python-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  />
+</div>
 
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img
+    src="https://techstack-generator.vercel.app/django-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/restapi-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/github-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/docker-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/aws-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/mysql-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  />
+</div>
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img
+    src="https://techstack-generator.vercel.app/nginx-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/prettier-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/eslint-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><img
+    src="https://techstack-generator.vercel.app/java-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  />
+</div>
+
+<h2  align="left">[GitHub Profile Stats]</h2>
+<div align="center">
+  <img alt="duongbaxinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duongbaxinh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=5170FFFF&icon_color=F8D866" height="192px"/>
+  <img alt="duongbaxinh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongbaxinh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=5170FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="duongbaxinh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=duongbaxinh&bg_color=1F222E&color=5170FFFF&line=5170FFFF&point=FFFFFF&area=true&hide_border=true&radius=8" height="268px"/>
+</div>
+
+###
+
+<p align="left">Contact me</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
