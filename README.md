@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="./background.png"  />
-</div>
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -36,7 +35,7 @@
     src="https://techstack-generator.vercel.app/react-icon.svg"
     alt="icon"
     width="65"
-    height="65"
+    height="65" 
   /><img
     src="https://techstack-generator.vercel.app/redux-icon.svg"
     alt="icon"
